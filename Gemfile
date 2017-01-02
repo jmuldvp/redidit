@@ -69,6 +69,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # per cp 27
 gem 'bootstrap-sass'
 gem 'bootswatch-rails'
-gem 'pg'
+# gem 'pg'
 gem 'embedly'
 gem "haml-rails", "~> 0.9"
