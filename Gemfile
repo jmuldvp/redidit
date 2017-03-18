@@ -46,6 +46,7 @@ group :development, :test do
 
   gem 'pry-rails'
   gem 'rspec-rails'
+  gem 'shoulda'
   gem 'rails-controller-testing'
   gem 'factory_girl_rails'
   gem 'faker'
