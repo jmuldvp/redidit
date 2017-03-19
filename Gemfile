@@ -71,6 +71,10 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # per cp 27
 gem 'bootstrap-sass'
+
+# Used for encrypting User passwords
+gem 'bcrypt'
+
 gem 'bootswatch-rails'
 # gem 'pg'
 gem 'embedly'
